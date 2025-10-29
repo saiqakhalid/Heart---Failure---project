@@ -37,7 +37,7 @@ Bar chart comparing Accuracy, Precision, Recall, and F1 Score for all models.
 ### 2️⃣ Feature Importance (Random Forest)
 Shows which features are most important for prediction.  
 
-![Feature Importance](results/feature_importance.png)  
+![Feature Importance](https://github.com/saiqakhalid/Heart---Failure---project/blob/main/feature%20importance%20from%20reandom%20forest.png)  
 
 ### 3️⃣ Confusion Matrices
 Confusion matrix showing true vs predicted labels.  
@@ -50,4 +50,9 @@ Confusion matrix showing true vs predicted labels.
 1. Clone the repository:  
 ```bash
 git clone https://github.com/your-username/heart-failure-project.git
+
+👩‍💻 Author
+
+Saiqa Khalid
+Email: saiqakhalid2012@gmail.com
 
