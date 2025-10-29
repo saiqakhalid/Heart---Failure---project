@@ -42,7 +42,7 @@ Shows which features are most important for prediction.
 ### 3️⃣ Confusion Matrices
 Confusion matrix showing true vs predicted labels.  
 
-![Confusion Matrix](results/confusion_matrix.png)  
+![Confusion Matrix](https://github.com/saiqakhalid/Heart---Failure---project/blob/main/Confusion%20metrics.png)  
 
 ---
 
